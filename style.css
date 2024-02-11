@@ -1,0 +1,231 @@
+.parent-div {
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.android-large---1-189 {
+  position: absolute;
+  width: 360px;
+  height: 800px;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 0px 0px 0px 0px;
+  background: linear-gradient(180deg, #393939ff 0%, #39393900 100%);
+}
+.nodeBg-1439 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  background-color: transparent;
+  background-size: contain;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAYAAAAvf+5AAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABqSURBVHgBrZDBCYAwDEWjC+jFo9hp9KhzOlTcpDHBBgqSNIIPPqXl8UsCYEBEI2cHDxYS56KHNSLJOUek9IuELSmbTUXUpkxv5O3kTD34dN+/rmSsJl5asjZjpNnfpSFL8xCVN/Ao8qH3GygAAu5qPD/LAAAAAElFTkSuQmCC);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.arrow-11-0-144 {
+  position: absolute;
+  width: 10px;
+  height: 14.7279052734375px;
+  top: 10.63604736328125px;
+  left: 15px;
+  opacity: 0;
+  z-index: -10;
+  transform: rotate(0deg);
+  transform-origin: 165px 389.36395263671875px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.rectangle-1-1-0 {
+  position: absolute;
+  width: 360px;
+  height: 68px;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  border-radius: 0px 0px 0px 0px;
+  background: linear-gradient(
+    180deg,
+    #595959ff 0%,
+    #595959ff 82%,
+    #5959591a 100%
+  );
+}
+.rectangle-8-1-315 {
+  position: absolute;
+  width: 360px;
+  height: 65px;
+  top: 735px;
+  left: 0px;
+  opacity: 1;
+  z-index: 1;
+  transform: rotate(0deg);
+  border-radius: 0px 0px 0px 0px;
+  background: linear-gradient(180deg, #5959591a 0%, #595959ff 28%);
+}
+.rectangle-2-1-416 {
+  position: absolute;
+  width: 105px;
+  height: 182px;
+  top: 95px;
+  left: 9px;
+  opacity: 1;
+  z-index: 3;
+  transform: rotate(0deg);
+  border-radius: 0px 0px 0px 0px;
+  background: #d9d9d9ff;
+}
+.rectangle-6-1-40 {
+  position: absolute;
+  width: 105px;
+  height: 182px;
+  top: 309px;
+  left: 9px;
+  opacity: 1;
+  z-index: 4;
+  transform: rotate(0deg);
+  border-radius: 0px 0px 0px 0px;
+  background: #d9d9d9ff;
+}
+.rectangle-7-1-363 {
+  position: absolute;
+  width: 105px;
+  height: 182px;
+  top: 523px;
+  left: 9px;
+  opacity: 1;
+  z-index: 5;
+  transform: rotate(0deg);
+  border-radius: 0px 0px 0px 0px;
+  background: #d9d9d9ff;
+}
+.truth-untold-1-3832 {
+  position: absolute;
+  width: 206px;
+  height: 23px;
+  top: 23px;
+  left: 77px;
+  opacity: 1;
+  z-index: 2;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.truth-untold-1-3832-0 {
+  font-size: 19px;
+  font-family: Inter;
+  font-weight: 800;
+  font-style: italic;
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 20px;
+  color: #ffffffff;
+}
+
+.learn-more-1-100 {
+  position: absolute;
+  width: 79px;
+  height: 18px;
+  top: 778px;
+  left: 273px;
+  opacity: 1;
+  z-index: 6;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.learn-more-1-100-0 {
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 200;
+  font-style: italic;
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 15px;
+  color: #000000ff;
+}
+
+.europa-the-last-1-1528 {
+  position: absolute;
+  width: 229px;
+  height: 28px;
+  top: 89px;
+  left: 117px;
+  opacity: 1;
+  z-index: 7;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.europa-the-last-1-1528-0 {
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 16px;
+  color: #ffffffff;
+}
+
+.the-tenepisode--0-2262 {
+  position: absolute;
+  width: 326px;
+  height: 354px;
+  top: 309px;
+  left: 17px;
+  opacity: 0;
+  z-index: -10;
+  transform: rotate(0deg);
+  text-align: justify;
+  line-height: 0px;
+}
+.the-tenepisode--0-2262-0 {
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: italic;
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 15px;
+  color: #ffffffff;
+}
+
+.europa-the-last-1-2790 {
+  position: absolute;
+  width: 227px;
+  height: 127px;
+  top: 138px;
+  left: 126px;
+  opacity: 1;
+  z-index: 8;
+  transform: rotate(0deg);
+  text-align: justify;
+  line-height: 0px;
+}
+.europa-the-last-1-2790-0 {
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: italic;
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 12px;
+  color: #ffffffff;
+}
